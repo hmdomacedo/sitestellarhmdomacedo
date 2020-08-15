@@ -177,6 +177,10 @@ input, select, textarea {
 		font-style: italic;
 	}
 
+	p.especial {
+		text-align: justify;
+	}
+	
 	p {
 		margin: 0 0 2em 0;
 	}
@@ -190,10 +194,6 @@ input, select, textarea {
 			-webkit-column-gap: 2em;
 			-ms-column-gap: 2em;
 			column-gap: 2em;
-			text-align: justify;
-		}
-
-		p.especial {
 			text-align: justify;
 		}
 
