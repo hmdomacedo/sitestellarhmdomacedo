@@ -1,5 +1,7 @@
 @import url(fontawesome-all.min.css);
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
+@import url('https://fonts.googleapis.com/css2?family=Aleo:wght@300;700&family=Cabin+Sketch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aleo:wght@300&family=Cabin+Sketch&display=swap');
 
 /*
 	Stellar by HTML5 UP
@@ -3096,6 +3098,12 @@ input, select, textarea {
 
 			#header.alt h1 {
 				font-size: 3.25em;
+				font-family: 'Aleo', serif;
+			}
+
+			#header.alt h2 {
+				font-size: 2em;
+				font-family: 'Cabin Sketch', cursive;
 			}
 
 			#header.alt > * {
